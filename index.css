@@ -38,16 +38,12 @@ p {
 
 }
 
-#i-1 {
+#i-1, #i-2 {
     background: #273549;
     border: 0px;
     border-radius: 5px;
     padding: 5px;
-    
-}
-#i-2 {
-    background: #273549;
-    border: 0px;
-    border-radius: 5px;
-    padding: 5px;
+    color: white;
+    font-weight: bold;
+    text-align: center
 }
